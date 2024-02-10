@@ -73,7 +73,7 @@ def generate_Pbxbot_session():
         Pbx_session = Pbxbot_session(_session)
         Pbx.send_message(
             "me",
-            f"#PBXBOT_SESSION \n\n`{HELL_session}`",
+            f"#PBXBOT_SESSION \n\n`{PBX_session}`",
         )
 
 
