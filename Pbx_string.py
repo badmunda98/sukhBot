@@ -33,7 +33,7 @@ except:
 
 
 def main():
-    print("T E A M    H E L L B O T   ! !")
+    print("T E A M    P B X B O T   ! !")
     print("Hello!! Welcome to PbxBot Session Generator\n")
     print("Human Verification Required !!")
     while True:
@@ -73,7 +73,7 @@ def generate_Pbxbot_session():
         Pbx_session = Pbxbot_session(_session)
         Pbx.send_message(
             "me",
-            f"#PBXBOT_SESSION \n\n`{Pbx_session}`",
+            f"#PBXBOT_SESSION \n\n`{HELL_session}`",
         )
 
 
